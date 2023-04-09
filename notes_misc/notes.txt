@@ -1,0 +1,18 @@
+.h and .cpp files
+
+
+pass by ref and what not
+
+
+writing pseudocode for a large program
+
+
+inheritance vs composition
+professor hare
+
+
+overload constructor
+default constructor send it default values 
+init variables 
+
+printing easier? like a format of sorts

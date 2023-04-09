@@ -1,0 +1,5 @@
+﻿  Lab02Main.cpp
+C:\Users\jt8y3\week-2-Jordinaa\Lab002\Lab002\Lab02Main.cpp(8,17): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\jt8y3\week-2-Jordinaa\Lab002\Lab002\Lab02Main.cpp(10,13): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\jt8y3\week-2-Jordinaa\Lab002\Lab002\Lab02Main.cpp(11,19): warning C4305: '*=': truncation from 'double' to 'float'
+  Lab002.vcxproj -> C:\Users\jt8y3\week-2-Jordinaa\Lab002\x64\Debug\Lab002.exe
